@@ -1,0 +1,3 @@
+[submodule "DesktopBridgeToUWP-Samples"]
+	path = DesktopBridgeToUWP-Samples
+	url = https://github.com/Software-devs-bit/DesktopBridgeToUWP-Samples
